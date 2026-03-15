@@ -23,6 +23,9 @@ Tools: VS Code
 Developed a strong foundation in Memory Management and C++ pointers.
 Applied OOP Design Patterns to solve structural programming challenges.
 Enhanced problem-solving speed by implementing efficient Algorithms.
+
 👤 Author
+
 Hassaan Abdullah
+
 www.linkedin.com/in/hassaan-abdullah-kiyani
