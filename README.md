@@ -1,5 +1,5 @@
 C++ Development Internship - YoungDev Interns
-This repository contains the projects and tasks completed during my C++ Development Internship at YoungDev Interns. The internship was structured into three progressive levels—Simple, Intermediate, and Advanced—designed to build a deep understanding of software development using C++.
+This repository contains the projects and tasks completed. The internship was structured into three progressive levels—Simple, Intermediate, and Advanced—designed to build a deep understanding of software development using C++.
 🚀 Internship Overview
 During this internship, I focused on mastering the core principles of C++ by solving real-world logic problems and implementing complex data structures.
 📂 Project Structure
